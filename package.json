@@ -14,5 +14,8 @@
     "tailwindcss": "latest",
     "autoprefixer": "latest",
     "postcss": "latest"
-  }
+  },
+  "devDependencies": {
+  "@tailwindcss/postcss": "^2.0.0"
+}
 }
