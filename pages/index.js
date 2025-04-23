@@ -23,7 +23,7 @@ export default function Home() {
         <ul>
           <li>Email: nadeejanirmala@gmail.com</li>
           <li>GitHub: <a href="https://github.com/barrylk" className="text-blue-400 hover:underline">barrylk</a></li>
-          <li>LinkedIn: <a href="https://linkedin.com/nnirmala" className="text-blue-400 hover:underline">nnirmala</a></li>
+          <li>LinkedIn: <a href="https://linkedin.com/in/nnirmala" className="text-blue-400 hover:underline">nnirmala</a></li>
         </ul>
       </main>
     </div>
