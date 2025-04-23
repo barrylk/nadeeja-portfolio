@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: nadeeja-portfolio
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    nodeVersion: "16"  # You can specify any version you need here.
